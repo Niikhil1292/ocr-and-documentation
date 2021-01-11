@@ -1,6 +1,3 @@
 <resources>
-    <string name="app_name">TextRecognizer1</string>
-    <string name="action_gallery">Gallery</string>
-    <string name="permission_request">This app need to access files on your device.</string>
-    <string name="no_text">No text found</string>
+    <string name="app_name">wordBook</string>
 </resources>
